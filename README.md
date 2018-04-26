@@ -5,6 +5,7 @@ Projeto Exemplo de Webservice com o framework RestEasy
  - Mantindo pela Jboss - segue a especificação JAX-RS ( JAVA API PARA Restfull WebService sobre o protocolo HTTP.
  - Servidor de Aplicação será o WildFly 12
 	- Já vem com o RESTEasy por padrão
+ - Produz tanto XML quanto JSON
 
 ## Criar um Dynamic Web Project
 	- WebServiceRestEasy
